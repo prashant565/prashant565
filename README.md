@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi 👋, I'm Prashant Jha
 
-<!--
-**prashant565/prashant565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer | 📊 Data Analytics Enthusiast | 🚀 MERN Stack Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Graduate
+- 🌱 Currently learning MERN Stack
+- 📊 Interested in Data Analytics & Web Development
+- 💼 Looking for Frontend Developer and Data Analyst opportunities
+- ⚡ I enjoy building real-world projects.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MySQL
+- MongoDB
+
+### Programming
+- Python
+- SQL
+
+### Tools
+- Git
+- GitHub
+- Power BI
+- VS Code
+
+---
+
+## 📂 Featured Projects
+
+### 🌐 Portfolio Website
+🔗 https://prashant565.github.io/html-portfolio-project/
+
+### 📊 Customer Behavior Analysis
+Python + SQL + Power BI
+
+### 📝 MERN Job Tracker
+React + Node.js + MongoDB
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/prashant565
+- Portfolio: https://prashant565.github.io/html-portfolio-project/
+
+---
+
+⭐ Thanks for visiting my profile!
